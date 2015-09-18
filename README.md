@@ -1,8 +1,6 @@
 # Cattify
 
-Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/cattify`. To experiment with that code, run `bin/console` for an interactive prompt.
-
-TODO: Delete this and the text above, and describe your gem
+An English-to-cat language translator analogue to Dogeify in "Step-by-Step Guid to Building Your First Ruby Gem Tutorial" by Matt Huggins. This is simply a practice in making my first Ruby Gem.
 
 ## Installation
 
@@ -22,7 +20,7 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+Whenever you are having trouble articulating what you want to convey to your pet alien, simply use this gem to translate English to Cat. This gem is also ideal for making your Ruby application accesible to felines.
 
 ## Development
 
@@ -32,7 +30,7 @@ To install this gem onto your local machine, run `bundle exec rake install`. To 
 
 ## Contributing
 
-Bug reports and pull requests are welcome on GitHub at https://github.com/[USERNAME]/cattify.
+Bug reports and pull requests are welcome on GitHub at https://github.com/anniee/cattify.
 
 
 ## License
