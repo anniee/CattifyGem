@@ -20,7 +20,7 @@ Or install it yourself as:
 
 ## Usage
 
-Whenever you are having trouble articulating what you want to convey to your pet alien, simply use this gem to translate English to Cat. This gem is also ideal for making your Ruby application accessible to felines.
+Whenever you are having trouble articulating what you want to convey to your pet alien, simply use this gem to translate English to Cat. This gem is also ideal for making your Ruby application comprehensible to felines.
 
 ## Development
 
