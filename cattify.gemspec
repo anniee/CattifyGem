@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["vettoap@gmail.com"]
 
   spec.summary       = %q{An English-to-cat language translator analogue to Dogeify in "Guide to Building Your First Ruby Gem Tutorial" (by Matt Huggins)}
-  spec.description   = %q{This is simply a practice in making my first Ruby Gem, but it is great for making your Ruby application comprehensible to felines.}
+  spec.description   = %q{An English-to-cat language translator analogue to Dogeify in "Guide to Building Your First Ruby Gem Tutorial" by Matt Huggins. This is simply a practice in making my first Ruby Gem, but it is great for making your Ruby application comprehensible to felines.}
   spec.homepage      = "https://github.com/anniee/CattifyGem"
   spec.license       = "MIT"
 
