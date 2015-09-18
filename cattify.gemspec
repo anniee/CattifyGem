@@ -9,15 +9,15 @@ Gem::Specification.new do |spec|
   spec.authors       = ["Anne Vetto"]
   spec.email         = ["vettoap@gmail.com"]
 
-  spec.summary       = %q{TODO: Write a short summary, because Rubygems requires one.}
-  spec.description   = %q{TODO: Write a longer description or delete this line.}
-  spec.homepage      = "TODO: Put your gem's website or public repo URL here."
+  spec.summary       = %q{An English-to-cat language translator analogue to Dogeify in "Guide to Building Your First Ruby Gem Tutorial" (by Matt Huggins)}
+  spec.description   = %q{This is simply a practice in making my first Ruby Gem, but it is great for making your Ruby application comprehensible to felines.}
+  spec.homepage      = "https://github.com/anniee/CattifyGem"
   spec.license       = "MIT"
 
   # Prevent pushing this gem to RubyGems.org by setting 'allowed_push_host', or
   # delete this section to allow pushing this gem to any host.
   if spec.respond_to?(:metadata)
-    spec.metadata['allowed_push_host'] = "TODO: Set to 'http://mygemserver.com'"
+    spec.metadata['allowed_push_host'] = "http://mygemserver.com"
   else
     raise "RubyGems 2.0 or newer is required to protect against public gem pushes."
   end
