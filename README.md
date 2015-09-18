@@ -20,7 +20,7 @@ Or install it yourself as:
 
 ## Usage
 
-Whenever you are having trouble articulating what you want to convey to your pet alien, simply use this gem to translate English to Cat. This gem is also ideal for making your Ruby application accesible to felines.
+Whenever you are having trouble articulating what you want to convey to your pet alien, simply use this gem to translate English to Cat. This gem is also ideal for making your Ruby application accessible to felines.
 
 ## Development
 
@@ -30,7 +30,7 @@ To install this gem onto your local machine, run `bundle exec rake install`. To 
 
 ## Contributing
 
-Bug reports and pull requests are welcome on GitHub at https://github.com/anniee/cattify.
+Bug reports and pull requests are welcome on GitHub at https://github.com/anniee/CattifyGem.
 
 
 ## License
