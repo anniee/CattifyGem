@@ -19,8 +19,8 @@ Gem::Specification.new do |spec|
   # if spec.respond_to?(:metadata)
   #   spec.metadata['allowed_push_host'] = "http://mygemserver.com"
   # else
-    raise "RubyGems 2.0 or newer is required to protect against public gem pushes."
-  end
+  #   raise "RubyGems 2.0 or newer is required to protect against public gem pushes."
+  # end
 
   spec.files         = `git ls-files -z`.split("\x0").reject { |f| f.match(%r{^(test|spec|features)/}) }
   spec.bindir        = "exe"
